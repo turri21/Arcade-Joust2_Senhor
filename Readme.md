@@ -1,3 +1,8 @@
+-=(Joust2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Joust 2](https://en.wikipedia.org/wiki/Joust_2:_Survival_of_the_Fittest) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![Joust 2 Logo](doc/Joust2Logo.png)
@@ -68,3 +73,4 @@ Quick reference for folders and file placement:
 /_Arcade/mame/<mame rom>.zip  
 /_Arcade/hbmame/<hbmame rom>.zip  
 ```
+
